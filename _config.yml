@@ -4,6 +4,9 @@
 permalink:           pretty
 #relative_permalinks: false
 
+gems: [jekyll-paginate]
+paginate_path: "page:num" 
+
 # Setup
 title:               Lanyon
 tagline:             'A Jekyll theme'
